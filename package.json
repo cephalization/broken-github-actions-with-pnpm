@@ -1,0 +1,22 @@
+{
+  "name": "broken-github-actions-with-pnpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build",
+    "start": "vite preview"
+  },
+  "packageManager": "pnpm@10.2.0",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-relay": "^18.2.0",
+    "relay-compiler": "^18.2.0",
+    "typescript": "^5.7.3",
+    "vite": "^6.1.0"
+  }
+}
